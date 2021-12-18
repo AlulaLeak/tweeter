@@ -1,0 +1,42 @@
+.full-tweet-border {
+  margin-bottom: 15px;
+  border: 3px solid white;
+  border-color: white;
+}
+
+.full-tweet-border:hover {
+  box-shadow: 5px 10px 8px 6px white;
+  border-color: white;
+}
+
+.tweet-head {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.tweet-foot {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.actual-tweet {
+  display: flex;
+  justify-content: flex-start;
+  padding: 20px;
+  margin: 20px;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.fa-flag:hover {
+  color:rgb(255, 208, 0);
+}
+
+.fa-retweet:hover {
+  color: green;
+}
+
+.fa-heart:hover {
+  color: red;
+}

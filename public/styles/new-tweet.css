@@ -1,0 +1,23 @@
+.rearrange {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-output{
+  display: flex;
+  justify-content: space-between;
+  order: 3;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  margin-bottom: 110px;
+}
+
+.text-divider {
+  background-color: black;
+  border: none;
+}
+
+.new-tweet {
+  display: flex;
+  flex-direction: column;
+}
