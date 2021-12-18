@@ -5,9 +5,9 @@ Just a simple, single-page Twitter clone. I got to learn about responsive web de
 
 ## Final Product
 
-!["Screenshot of URLs page"](https://github.com/AlulaLeak/tinyapp/blob/master/tweeter/public/images/screencapture-localhost-8081-2021-12-18-00_30_33.png)
+!["Screenshot of URLs page"](https://github.com/AlulaLeak/tinyapp/blob/master/public/images/screencapture-localhost-8081-2021-12-18-00_30_33.png)
 
-!["Screenshot of URLs page"](https://github.com/AlulaLeak/tinyapp/blob/master/tweeter/public/images/screencapture-localhost-8081-2021-12-18-00_31_03.png)
+!["Screenshot of URLs page"](https://github.com/AlulaLeak/tinyapp/blob/master/public/images/screencapture-localhost-8081-2021-12-18-00_31_03.png)
 
 ## Getting Started
 
